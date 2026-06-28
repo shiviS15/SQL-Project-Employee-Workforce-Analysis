@@ -23,5 +23,6 @@ Subqueries
 Common Table Expressions (CTEs)
 Window Functions
 Business Insights
+Power BI for Dashboard
 
 This project strengthened my understanding of SQL and reinforced how data analysis can support informed business decisions. I'm continuously building projects to enhance my data analytics skills and would appreciate any feedback from the community.
